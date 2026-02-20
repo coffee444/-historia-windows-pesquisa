@@ -10,13 +10,16 @@ Repositório destinado à pesquisa histórica das versões do Microsoft Windows,
 | **Windows 1.0** | 1985 | Interface gráfica sobre o MS-DOS. | O nome original do projeto era "Interface Manager". |
 | **Windows 2.0** | 1987 | Melhorias na interface e suporte a janelas sobrepostas | Primeiras versões do Word e Excel para Windows surgiram nesta fase.
 | **Windows 3.x** | 1990 | Gerenciador de Programas e suporte a 256 cores. | Foi a versão que popularizou o jogo *Paciência* para ensinar o uso do mouse. |
+| **Windows NT** | 1993 | Sistema operacional de 32 bits com arquitetura moderna, voltado para estabilidade e segurança. | "NT" significa New Technology e foi desenvolvido do zero, sem depender do MS-DOS. |
 | **Windows 95** | 1995 | Menu Iniciar e Barra de Tarefas. | A Microsoft pagou milhões para usar a música "Start Me Up" dos Rolling Stones no comercial. |
 |  **Windows 98** | 1998 | Foco em internet e USB | Integração do Internet Explorer ao sistema.
 |  **Windows ME** | 2000 | Voltado ao usuário doméstico | Última versão baseada no MS-DOS.
 |  **Windows 2000** | 2000 | Baseado na linha NT, mais estável e corporativo | Substituiu o Windows NT 4.0.
 | **Windows XP** | 2001 | Estabilidade (Kernel NT) e novo visual "Luna". | A famosa imagem do papel de parede (Bliss) é uma foto real, sem Photoshop. |
+| **Windows Vista** | 2007 | Sistema operacional com nova interface gráfica Aero e foco em segurança. | Foi criticado por exigir muito do hardware na época, o que afetou sua popularidade. |
 | **Windows 7** | 2009 | Melhor desempenho e estabilidade | Tornou-se uma das versões mais populare
 |  **Windows 8** | 2012 | Interface focada em toque (Metro) | Removeu o Menu Iniciar tradicional.
+| **Windows 8.1** | 2013 | Atualização do Windows 8 com melhorias na interface e retorno do botão Iniciar. | Permitiu iniciar direto na área de trabalho, atendendo a uma das maiores críticas ao Windows 8. |
 | **Windows 10** | 2015 | Retorno do Menu Iniciar e atualizações contínuas | Modelo "Windows como serviço".
 | **Windows 11** | 2021 | Menu Iniciar centralizado e suporte a apps Android. | É a primeira versão que exige obrigatoriamente o chip de segurança TPM 2.0. |
 
@@ -34,6 +37,10 @@ Desenvolvido por [Sarah Almeida] - 2026.
  **Windows 3.x** 
  <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/f476ee13-2973-4bdc-8a72-772f205c94e2" />
 
+ **Windows NT**
+ <img width="640" height="512" alt="image" src="https://github.com/user-attachments/assets/f9804bfe-0810-4e8b-ad8c-65b675765e4d" />
+
+
  **Windows 95** 
  <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/6f0c05b5-c7ff-4124-b977-bc6c042fc6f0" />
 
@@ -49,11 +56,19 @@ Desenvolvido por [Sarah Almeida] - 2026.
    **Windows XP** 
    <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/453ff670-e1bf-4323-aeb7-595a343d54ab" />
 
+   **Windows Vista**
+   <img width="330" height="247" alt="image" src="https://github.com/user-attachments/assets/c84b65bd-579f-42cf-b19f-2c35da85e84d" />
+
+
    **Windows 7**
    <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/19fa25e7-bbc6-4e5b-815a-cd025acb1f84" />
 
   **Windows 8**
   <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/494e3da0-27b6-4842-8d7b-2b56a9c58599" />
+
+ **Windows 8.1**
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/176cf2a7-2188-4c0e-ad19-520f47214f21" />
+
 
   **Windows 10**
   <img width="620" height="400" alt="image" src="https://github.com/user-attachments/assets/6cf3ed9d-d67e-461e-ab66-674e9ed51d34" />
