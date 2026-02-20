@@ -53,7 +53,7 @@ Desenvolvido por [Sarah Almeida] - 2026.
    <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/19fa25e7-bbc6-4e5b-815a-cd025acb1f84" />
 
   **Windows 8**
-  <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/494e3da0-27b6-4842-8d7b-2b56a9c58599" 
+  <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/494e3da0-27b6-4842-8d7b-2b56a9c58599" />
 
   **Windows 10**
   <img width="620" height="400" alt="image" src="https://github.com/user-attachments/assets/6cf3ed9d-d67e-461e-ab66-674e9ed51d34" />
