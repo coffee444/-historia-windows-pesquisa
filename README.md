@@ -1,1 +1,24 @@
 # -historia-windows-pesquisa
+# 🪟 Evolução do Sistema Operacional Windows
+
+Repositório destinado à pesquisa histórica das versões do Microsoft Windows, realizado para a disciplina de [Nome da Disciplina].
+
+## 📜 Linha do Tempo
+
+| Versão | Ano | Principal Novidade | Curiosidade |
+| :--- | :---: | :--- | :--- |
+| **Windows 1.0** | 1985 | Interface gráfica sobre o MS-DOS. | O nome original do projeto era "Interface Manager". |
+| **Windows 2.0** | 1987 | Melhorias na interface e suporte a janelas sobrepostas | Primeiras versões do Word e Excel para Windows surgiram nesta fase.
+| **Windows 3.x** | 1990 | Gerenciador de Programas e suporte a 256 cores. | Foi a versão que popularizou o jogo *Paciência* para ensinar o uso do mouse. |
+| **Windows 95** | 1995 | Menu Iniciar e Barra de Tarefas. | A Microsoft pagou milhões para usar a música "Start Me Up" dos Rolling Stones no comercial. |
+|  **Windows 98** | 1998 | Foco em internet e USB | Integração do Internet Explorer ao sistema.
+|  **Windows ME** | 2000 | Voltado ao usuário doméstico | Última versão baseada no MS-DOS.
+|  **Windows 2000** | 2000 | Baseado na linha NT, mais estável e corporativo | Substituiu o Windows NT 4.0.
+| **Windows XP** | 2001 | Estabilidade (Kernel NT) e novo visual "Luna". | A famosa imagem do papel de parede (Bliss) é uma foto real, sem Photoshop. |
+| **Windows 7** | 2009 | Melhor desempenho e estabilidade | Tornou-se uma das versões mais populare
+|  **Windows 8** | 2012 | Interface focada em toque (Metro) | Removeu o Menu Iniciar tradicional.
+| **Windows 10** | 2015 | Retorno do Menu Iniciar e atualizações contínuas | Modelo "Windows como serviço".
+| **Windows 11** | 2021 | Menu Iniciar centralizado e suporte a apps Android. | É a primeira versão que exige obrigatoriamente o chip de segurança TPM 2.0. |
+
+---
+Desenvolvido por [Sarah Almeida] - 2026.
