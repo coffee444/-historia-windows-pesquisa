@@ -22,3 +22,54 @@ Repositório destinado à pesquisa histórica das versões do Microsoft Windows,
 
 ---
 Desenvolvido por [Sarah Almeida] - 2026.
+
+ **Windows 1.0**
+ <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/5b00f4de-bda9-4368-801e-77866bee0e97" />
+
+ 
+**Windows 2.0**
+<img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/897061b8-9666-4e26-9370-be95ed0f109e" />
+
+
+ **Windows 3.x** 
+ <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/f476ee13-2973-4bdc-8a72-772f205c94e2" />
+
+ **Windows 95** 
+ <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/6f0c05b5-c7ff-4124-b977-bc6c042fc6f0" />
+
+  **Windows 98** 
+  <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/9bd61b60-5de2-472f-908f-7e039a2652a0" />
+
+   **Windows ME** 
+   <img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/c484aafb-5d08-4b19-ae4c-551a714b46a8" />
+
+   **Windows 2000**
+   <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/e2831dd9-1940-4de5-9d25-19c2e362ef9f" />
+
+   **Windows XP** 
+   <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/453ff670-e1bf-4323-aeb7-595a343d54ab" />
+
+   **Windows 7**
+   <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/19fa25e7-bbc6-4e5b-815a-cd025acb1f84" />
+
+  **Windows 8**
+  <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/494e3da0-27b6-4842-8d7b-2b56a9c58599" 
+
+  **Windows 10**
+  <img width="620" height="400" alt="image" src="https://github.com/user-attachments/assets/6cf3ed9d-d67e-461e-ab66-674e9ed51d34" />
+
+  **Windows 11**
+  <img width="800" height="566" alt="image" src="https://github.com/user-attachments/assets/34a6e29c-c67e-4c3e-a74c-7bd91068cc1c" />
+
+
+
+
+   
+
+
+
+
+
+
+ 
+
