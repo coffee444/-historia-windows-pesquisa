@@ -51,7 +51,8 @@ Desenvolvido por [Sarah Almeida] - 2026.
    <img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/c484aafb-5d08-4b19-ae4c-551a714b46a8" />
 
    **Windows 2000**
-   <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/e2831dd9-1940-4de5-9d25-19c2e362ef9f" />
+   <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/1518b30b-2935-4e43-88f7-7828499e517d" />
+
 
    **Windows XP** 
    <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/453ff670-e1bf-4323-aeb7-595a343d54ab" />
